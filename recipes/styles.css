@@ -1,3 +1,12 @@
-* {
-    color: hotpink;
+img {
+    height: auto;
+    width: 200px;
+}
+
+.teal{
+    color: teal;
+}
+
+.blue {
+    color: blue;
 }
